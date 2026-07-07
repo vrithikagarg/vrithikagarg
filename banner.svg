@@ -1,0 +1,22 @@
+<svg width="1000" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="smoothGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <!-- Royal Blue -->
+      <stop offset="0%" stop-color="#4169E1" />
+      <!-- Cobalt Blue -->
+      <stop offset="40%" stop-color="#0047AB" />
+      <!-- Lighter Blue -->
+      <stop offset="75%" stop-color="#87CEFA" />
+      <!-- White -->
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background with slightly rounded corners -->
+  <rect width="100%" height="100%" fill="url(#smoothGradient)" rx="15" />
+  
+  <!-- Text Styling -->
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#0A1128" text-anchor="middle" dominant-baseline="middle">
+    Hi 👋, I'm Vrithika ⭐
+  </text>
+</svg>

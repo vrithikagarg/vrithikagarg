@@ -11,7 +11,7 @@
 ---
 
 ### 🛡️ About Me
-I am a cybersecurity professional focused on security operations, offensive security, and cyber resilience. As a CISSP-certified analyst, I specialize in building robust defense mechanisms, automating security workflows, and analyzing vulnerabilities to protect critical infrastructure.
+Cybersecurity professional and M.S. candidate (GPA 3.9, May 2026) with expertise in security operations, NIST 800-53 compliance, and vulnerability management. Proven success in authoring System Security Plans (SSP) and driving incident response protocols. Technical proficiency in Python-based security automation, SIEM (Splunk) deployment, and offensive security testing. Seeking a Cybersecurity Analyst role to leverage deep regulatory compliance knowledge and technical assessment capabilities.
 
 **Currently focusing on:**
 *   **Skill Development:** Enhancing my automation capabilities using Linux-based terminal environments and Bash scripting.

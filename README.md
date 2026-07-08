@@ -1,12 +1,3 @@
-@-moz-document domain("github.com") {
-  body,
-  .Header,
-  .application-main,
-  html[data-color-mode] {
-    background-color: #673147 !important; /* plum */
-  }
-}
-
 <div align="center">
   <img src="banner.svg" alt="Hi, I'm Vrithika" width="100%" />
 </div>
